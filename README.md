@@ -1,6 +1,8 @@
-## Your Name
+## Jamie Richardson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Multifaceted, highly motivated fundraising professional with over 6 years of experience in project management, solutions consultancy and income generation. Committed to driving tangible change for the global LGBTQ+ communities.
+
+I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 
 ## Projects
 
@@ -11,41 +13,52 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Switchboard - LGBTQ+ Helpline** (September 2021 - March 2023)  
+_Development Lead_
+- Managing the creation and implementation of Switchboards fundraising strategy.
+- In the last year, I increased regular giving by 35%, expanded our portfolio of new donors by 200% and ensured a better balance of funding streams. 
+- Responsible for the development and expansion of income streams by innovating our engagement with donors, which included;
+  - Consulting on large corporate campaigns
+  - Introducing regular newsletters containing service user themes from the LGBTQ+ communities that Switchboard serve
+  - Establishing a major donor group
+  - Hosting building tours for donors after commissioning artwork celebrating Switchboard's history
+  - Creating and delivering workshops, covering topics such as LGBTQ+ history, caller themes (mental health, gender identity, hate crimes) and allyship
+  - Building fundraising packs for legacy, individual and corporate donors
+  - Implementing and maintaining Switchboard’s first CRM (Donorfy); compiling 5 years of legacy data to understand Switchboard’s financial distribution and position.
+  - Organising fundraising and engagement events throughout the year.
+  - Management of Switchboard's Social Media Team, Admin Volunteers and Community Fundraising Engagement Group.
+  - Researching and writing grant applications.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Litera** (April 2018 - August 2021)  
+_Lead Transaction Advisor and D&I Network Lead_
+- Led team of Transaction Advisors who are responsible to the deployment, adoption and growth of our global account base.
+- Implemented creative means to drive adoption, usage and challenging perceptions of technology within the legal industry.
+- Part of a small team that created an entirely new revenue stream for Workshare, a key factor behind Litera’s acquisition of the company in July 2019.
+- Launched a global D&I Network at Litera, creating a Steering Committee of internal stakeholders. The group achieved; revision of the global HR recruitment process to be more inclusive, removal of gendered toilets in all offices, led educational workshops and implemented compulsory awareness training.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**SmallCo** (September 2016 - March 2018)  
+_Project Manager_
+- Independently led the development of SmallCo SaaS products into the European market, which included:
+  - organising promotional events within the FileMaker community
+  - pitching and securing new partnerships
+  - leading a team of 6 global engineers to complete multiple development projects in North America, Mexico and Europe
+  
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Leadership Resource Planning
+As Development Lead at Switchboard, I am responsible for the creation and implementation of the charity’s fundraising strategy. Starting from scratch, my focus was to build a sustainable infrastructure for income generation which included implementing a CRM (Donorfy), collating 5 years of financial data to understand Switchboard’s income distribution, creating best practice for team members when engaging with the CRM and mapping the “donor journey”.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Management 
+In my previous role as Lead Transaction Advisor at Litera, a legal tech company, I was part of a small team that created an entirely new revenue stream for the organisation. As the product gained popularity, I managed a team of Transaction Advisors who worked closely with internal and external teams to understand our clients’ key pain points, coordinated events to break into a seemingly impenetrable industry averse to risk and presented pitches and demos daily to key stakeholders in the legal industry.
 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Presentation
+As Development Lead, I created 3 core workshops true to Switchboard’s identity which include; allyship using our volunteers active listening skills, current caller themes pulled from Twillio (mental health, gender identity, hate crimes) and LGBTQ+ history through the lens of Switchboard’s log books from 1974 to present day (using historical archives from the Bishopgate Institute). This Pride season, I even had one attendee tell me that my presentation had given them the confidence to come out as genderqueer at work! This was an immensely powerful reminder that these workshops are an invaluable opportunity to increase an organisation’s awareness of the struggles faced by LGBTQ+ communities and provide an informed platform for further discussion in sometimes immensely exclusionary professional environments.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 - June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,16 +67,33 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds – BSc International Business (2:1), September 2012 - July 2016
+- Key Modules: International Law, European Business, Event Management, Innovation and Practice, CSR.
+- Extra- Curricular: Treasurer and Captain for Leeds University Swimming and Water Polo, Vice President for Leeds University Halls of Residence.
+- Dissertation title: "SMEs’ internationalisation: When does innovation matter?"
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Alberta, Canada – Study Abroad Program, August 2014 - May 2015
+- Key Modules: Consumer Behaviour, Accounting, HRM, German.
+- Extra- Curricular: Team Lead for Enactus, UoA Triathlon, Outdoors Club, UoA Snow Sports.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Level 2 Certificate in Fitness Instructing
+- Indoor Cycling Instructor Qualification 
+- Level 2 Kettlebell Qualification
+
+## Other Experience
+
+- Listening Volunteer, Switchboard LGBTQ+ Helpline (2019 - 2021)
+- Community Fundraising and Engagement Volunteer, Switchboard LGBTQ+ Helpline (2019 - 2020)
+- Support Volunteer, Four Walls (2018 - 2019)
+- Support Volunteer, OUT Miami (2016)
+- Admin Volunteer, Queers on Campus at University of Alberta (2015)
+- Campaign Assistant, Net Impact (2015)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Freelance instructor at GymBox
+- Freelance photographer, with a focus on professional headshots
+- Competitive swimmer 
+- Co-host a podcast with guests such as  Ciara Madden (GymShark Ambassador), Rob Sheehan (The Umbrella Academy),  Alex Lawther (Star Wars) 
